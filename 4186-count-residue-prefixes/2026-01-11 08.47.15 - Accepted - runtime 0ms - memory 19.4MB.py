@@ -1,0 +1,13 @@
+class Solution:
+    def residuePrefixes(self, s: str) -> int:
+        seen=set()
+        count=0
+        for i in range(len(s)):
+            seen.add(s[i])
+            if len(seen)==(i+1)%3:
+                count+=1
+        return count
+            
+            
+            
+            
