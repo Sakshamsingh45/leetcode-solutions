@@ -1,41 +1,77 @@
-# 🚀 LeetCode Journey
+# 🚀 LeetCode Solutions
 
-> "Consistency beats intensity."
+Welcome to my LeetCode solutions repository! This repository serves as a collection of my accepted solutions to LeetCode problems, documenting my journey of learning Data Structures & Algorithms and sharpening my problem-solving skills.
 
-This repository contains all of my LeetCode solutions as I work toward becoming a better software engineer.
+---
 
-## 💡 Goals
+## 👨‍💻 About Me
 
-- ✅ Solve LeetCode problems consistently
-- ✅ Master Data Structures & Algorithms
-- ✅ Prepare for coding interviews
-- ✅ Learn optimal approaches and time complexities
+- 💻 Passionate about solving algorithmic problems
+- 📚 Continuously learning Data Structures & Algorithms
+- 🎯 Preparing for Software Engineering interviews
+- 🐍 Primary Language: **Python**
 
-## 🛠 Languages
+---
 
-- Python 🐍
+## 📊 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/saksham-_-singh?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
+</p>
+
+---
 
 ## 📚 Topics Covered
 
 - Arrays
 - Strings
-- Hash Maps
+- Hash Tables
 - Linked Lists
-- Trees
-- Graphs
 - Stacks & Queues
+- Trees
+- Binary Trees
+- Graphs
 - Heaps
 - Binary Search
 - Sliding Window
 - Two Pointers
+- Greedy Algorithms
 - Dynamic Programming
-- Greedy
 - Backtracking
-
-## 📈 Progress
-
-Every accepted solution is automatically synced using **LeetHub**, making this repository a living record of my coding journey.
+- Bit Manipulation
+- Math
 
 ---
 
-⭐ Thanks for visiting! Feel free to explore the solutions and learn along with me.
+## 📁 Repository Structure
+
+Each folder corresponds to a LeetCode problem and contains the solution source code.
+
+```text
+0001-two-sum/
+0002-add-two-numbers/
+0003-longest-substring-without-repeating-characters/
+...
+```
+
+---
+
+## 🎯 Goals
+
+- Solve problems consistently.
+- Master Data Structures & Algorithms.
+- Improve code quality and efficiency.
+- Strengthen analytical and problem-solving skills.
+- Prepare for technical interviews.
+
+---
+
+## 🌟 Connect With Me
+
+- **LeetCode:** https://leetcode.com/u/saksham-_-singh/
+
+---
+
+> *"Success is the sum of small efforts, repeated day in and day out."* — Robert Collier
+
+⭐ If you find this repository helpful, feel free to star it!
