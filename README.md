@@ -109,4 +109,12 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0147-insertion-sort-list) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
