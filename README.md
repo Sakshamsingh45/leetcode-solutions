@@ -81,6 +81,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Greedy
@@ -117,4 +118,12 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0029-divide-two-integers) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
