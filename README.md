@@ -122,8 +122,13 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0278-first-bad-version](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0278-first-bad-version) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
