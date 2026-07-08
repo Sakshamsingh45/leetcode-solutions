@@ -116,6 +116,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [1025-divisor-game](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1025-divisor-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
@@ -150,4 +151,16 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0183-customers-who-never-order) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
