@@ -146,4 +146,8 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
