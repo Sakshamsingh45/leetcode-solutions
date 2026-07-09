@@ -83,6 +83,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1288-remove-covered-intervals](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -114,6 +115,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
 |  |
