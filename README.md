@@ -106,6 +106,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,6 +123,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1652-defuse-the-bomb](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Linked List
 |  |
 | ------- |
