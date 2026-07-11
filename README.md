@@ -89,6 +89,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | [1695-maximum-erasure-value](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Greedy
 |  |
 | ------- |
@@ -100,6 +101,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | [0594-longest-harmonious-subsequence](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1288-remove-covered-intervals](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## String
 |  |
 | ------- |
@@ -127,6 +129,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | [1695-maximum-erasure-value](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Linked List
 |  |
 | ------- |
@@ -147,6 +150,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0278-first-bad-version](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0278-first-bad-version) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Divide and Conquer
 |  |
 | ------- |
