@@ -86,6 +86,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 ## Hash Table
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0290-word-pattern) |
 | [1331-rank-transform-of-an-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
@@ -95,4 +96,8 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1291-sequential-digits) |
+## String
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
