@@ -4,7 +4,6 @@ class Solution:
             a,b=b,a%b
         return a
     def findGCD(self, nums: List[int]) -> int:
-        mn,mx=min(nums),max(nums)
-        ans=gcd(mn,mx)
+        nums.sort()
+        ans=gcd(nums[0],nums[-1])
         return ans
-
