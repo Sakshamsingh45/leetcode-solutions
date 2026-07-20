@@ -82,6 +82,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 ## Array
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
@@ -125,6 +126,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
@@ -142,4 +144,8 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0146-lru-cache) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
