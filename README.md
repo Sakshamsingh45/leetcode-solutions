@@ -82,6 +82,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0048-rotate-image) |
 | [1260-shift-2d-grid](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -109,6 +110,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -147,5 +149,6 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0048-rotate-image) |
 | [1260-shift-2d-grid](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
