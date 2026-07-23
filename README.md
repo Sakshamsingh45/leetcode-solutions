@@ -88,6 +88,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | [1331-rank-transform-of-an-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -115,6 +116,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | [0048-rotate-image](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -165,4 +167,8 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
