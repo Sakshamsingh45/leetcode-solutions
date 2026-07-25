@@ -102,6 +102,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
@@ -119,6 +120,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | [0172-factorial-trailing-zeroes](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
