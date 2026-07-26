@@ -85,6 +85,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | [0048-rotate-image](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0324-wiggle-sort-ii](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -102,6 +103,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -119,6 +121,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | ------- |
 | [0048-rotate-image](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
