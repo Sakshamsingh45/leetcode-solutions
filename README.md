@@ -82,6 +82,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0324-wiggle-sort-ii](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
@@ -96,6 +97,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0290-word-pattern](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0290-word-pattern) |
