@@ -163,6 +163,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0146-lru-cache) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -220,4 +221,16 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
