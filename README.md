@@ -93,6 +93,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3731-find-missing-elements](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -103,6 +104,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | [0290-word-pattern](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0290-word-pattern) |
 | [1331-rank-transform-of-an-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -113,6 +115,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
