@@ -135,6 +135,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | ------- |
 | [0048-rotate-image](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0382-linked-list-random-node](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0382-linked-list-random-node) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -169,6 +170,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0382-linked-list-random-node](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0382-linked-list-random-node) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
@@ -240,4 +242,12 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
