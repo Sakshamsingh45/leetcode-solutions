@@ -104,6 +104,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0001-two-sum) |
+| [0138-copy-list-with-random-pointer](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
@@ -181,6 +182,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0382-linked-list-random-node](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0382-linked-list-random-node) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
