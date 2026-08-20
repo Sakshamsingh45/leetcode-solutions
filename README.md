@@ -142,6 +142,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0290-word-pattern](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0290-word-pattern) |
+| [0394-decode-string](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0394-decode-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -260,10 +261,12 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0394-decode-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0394-decode-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
