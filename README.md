@@ -162,6 +162,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
