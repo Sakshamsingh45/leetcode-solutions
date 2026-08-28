@@ -149,6 +149,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | [0290-word-pattern](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0394-decode-string) |
 | [1927-sum-game](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -193,6 +194,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | [0209-minimum-size-subarray-sum](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
