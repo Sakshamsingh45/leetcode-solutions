@@ -204,6 +204,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | [0138-copy-list-with-random-pointer](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0382-linked-list-random-node](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0382-linked-list-random-node) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
