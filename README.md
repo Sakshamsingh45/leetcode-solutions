@@ -108,6 +108,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -267,6 +268,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | [0209-minimum-size-subarray-sum](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [3903-smallest-stable-index-i](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
