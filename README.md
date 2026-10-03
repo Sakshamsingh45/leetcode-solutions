@@ -160,6 +160,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0187-repeated-dna-sequences](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0290-word-pattern](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0394-decode-string) |
@@ -306,6 +307,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0394-decode-string](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0394-decode-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
@@ -337,6 +339,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0397-integer-replacement](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0397-integer-replacement) |
 ## Memoization
 |  |
@@ -354,4 +357,8 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
