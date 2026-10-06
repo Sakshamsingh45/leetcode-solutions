@@ -164,6 +164,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | [0187-repeated-dna-sequences](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0290-word-pattern](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0394-decode-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -253,6 +254,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0397-integer-replacement](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0397-integer-replacement) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1927-sum-game](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -309,6 +311,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0394-decode-string](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0394-decode-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
@@ -361,4 +364,5 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
