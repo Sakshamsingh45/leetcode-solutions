@@ -92,6 +92,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | [0274-h-index](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1260-shift-2d-grid](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -142,6 +143,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | [0169-majority-element](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -182,6 +184,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | [0172-factorial-trailing-zeroes](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0382-linked-list-random-node](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0382-linked-list-random-node) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1927-sum-game](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
