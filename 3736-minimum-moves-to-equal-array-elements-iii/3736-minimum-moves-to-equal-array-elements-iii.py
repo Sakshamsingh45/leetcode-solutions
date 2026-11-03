@@ -1,3 +1,8 @@
 class Solution:
     def minMoves(self, nums: List[int]) -> int:
-        return len(nums)*max(nums)-sum(nums)
+        mx=max(nums)
+        count=0
+        for i in nums:
+            if i<mx:
+                count+=mx-i
+        return count
