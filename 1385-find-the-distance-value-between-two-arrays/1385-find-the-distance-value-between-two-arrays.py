@@ -11,6 +11,10 @@ class Solution:
                     high=mid
                 else:
                     low=mid+1
-            if (low == len(arr2) or arr2[low] - i > d) and  (low == 0 or i - arr2[low-1] > d):
-                count += 1
+            if low==0 and arr2[low]-i>d:
+                count+=1
+            elif low==len(arr2) and i-arr2[low-1]>d:
+                count+=1
+            elif arr2[low]-i>d and i-arr2[low-1]>d:
+                count+=1
         return count
