@@ -2,11 +2,7 @@ class Solution:
     def countServers(self, n: int, logs: List[List[int]], x: int, queries: List[int]) -> List[int]:
         logs.sort(key=lambda y: y[1])
         queries = sorted((q, idx) for idx, q in enumerate(queries))
-        seen=set()
-        for i in logs:
-            if i[0] not in seen:
-                seen.add(i[0])
-        unique_server=len(seen)
+
         seen={}
         l=0
         r=0
