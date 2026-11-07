@@ -131,6 +131,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | [0169-majority-element](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0290-word-pattern](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0290-word-pattern) |
+| [0791-custom-sort-string](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [1331-rank-transform-of-an-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -150,6 +151,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | [0324-wiggle-sort-ii](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0791-custom-sort-string](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [1331-rank-transform-of-an-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -174,6 +176,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | [0187-repeated-dna-sequences](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0290-word-pattern](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0394-decode-string) |
+| [0791-custom-sort-string](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1927-sum-game) |
