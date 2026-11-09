@@ -85,6 +85,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | [0001-two-sum](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0149-max-points-on-a-line](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0169-majority-element) |
@@ -125,6 +126,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
@@ -146,6 +148,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
@@ -173,6 +176,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0290-word-pattern](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0394-decode-string) |
