@@ -91,6 +91,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | [0169-majority-element](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -307,6 +308,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0275-h-index-ii](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
