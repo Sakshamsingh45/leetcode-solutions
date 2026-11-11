@@ -212,6 +212,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3871-count-commas-in-range-ii](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -283,6 +284,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Quickselect
 |  |
 | ------- |
