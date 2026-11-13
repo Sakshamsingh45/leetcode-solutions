@@ -177,6 +177,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0032-longest-valid-parentheses](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
