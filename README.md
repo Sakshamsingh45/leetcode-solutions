@@ -189,6 +189,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1927-sum-game) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
