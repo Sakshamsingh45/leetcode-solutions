@@ -99,6 +99,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | [0713-subarray-product-less-than-k](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1260-shift-2d-grid](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -208,6 +209,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1927-sum-game](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -268,6 +270,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0146-lru-cache) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -329,6 +332,7 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3903-smallest-stable-index-i](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -403,4 +407,8 @@ Each folder corresponds to a LeetCode problem and contains the solution source c
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sakshamsingh45/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
